@@ -3,3 +3,8 @@ body {
   color: #2A7292;
   font-family: 'Averia Sans Libre','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.navbar-nav {
+  margin-left: auto;
+  /* margin-right: 20px; */
+}
